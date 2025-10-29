@@ -5,15 +5,15 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.WebHost.ConfigureKestrel(options =>
+//builder.WebHost.ConfigureKestrel(options =>
 
-{
+//{
 
-    options.ListenAnyIP(3000); // HTTP
+//    options.ListenAnyIP(3000); // HTTP
 
-    // options.ListenAnyIP(5001, listenOptions => listenOptions.UseHttps()); // HTTPS (nếu có cert)
+//    // options.ListenAnyIP(5001, listenOptions => listenOptions.UseHttps()); // HTTPS (nếu có cert)
 
-});
+//});
 
 
 

@@ -2,12 +2,15 @@
 
 namespace EmployeeMangement.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class EmployeesController : ControllerBase
+   
+    public class EmployeeController : Controller
     {
+        public IActionResult List()
+        {
+            return View();
+        }
         // GET: api/employees
-        [HttpGet]
+        [HttpGet("api/employees")]
         public async Task<IActionResult> GetAll()
         {
             return Ok(new { message = "Get all employees" });

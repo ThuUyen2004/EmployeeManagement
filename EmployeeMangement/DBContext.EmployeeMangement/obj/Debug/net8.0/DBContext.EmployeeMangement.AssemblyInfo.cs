@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DBContext.EmployeeMangement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+804894de7958e43821b17f42af16b00ed9a3280e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1758a14ed8360af48c8c335a7e52a60e18ff6a37")]
 [assembly: System.Reflection.AssemblyProductAttribute("DBContext.EmployeeMangement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DBContext.EmployeeMangement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

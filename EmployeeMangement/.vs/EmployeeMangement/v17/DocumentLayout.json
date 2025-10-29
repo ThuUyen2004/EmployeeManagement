@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\D\\TTTN\\EmployeeMangement\\EmployeeManagement\\EmployeeMangement\\",
+  "WorkspaceRootPath": "D:\\ForBusiness\\EmployeeManagement\\EmployeeManagement\\EmployeeMangement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAE73CBE-1745-4D00-8696-3D4F8E4961E3}|Service.EmployeeMangement\\Service.EmployeeMangement.csproj|c:\\d\\tttn\\employeemangement\\employeemanagement\\employeemangement\\service.employeemangement\\service.employeemangement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AAE73CBE-1745-4D00-8696-3D4F8E4961E3}|Service.EmployeeMangement\\Service.EmployeeMangement.csproj|d:\\forbusiness\\employeemanagement\\employeemanagement\\employeemangement\\service.employeemangement\\service.employeemangement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AAE73CBE-1745-4D00-8696-3D4F8E4961E3}|Service.EmployeeMangement\\Service.EmployeeMangement.csproj|solutionrelative:service.employeemangement\\service.employeemangement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1A849C6-602C-42EE-8A06-D60F04334E92}|DBContext.EmployeeMangement\\DBContext.EmployeeMangement.csproj|c:\\d\\tttn\\employeemangement\\employeemanagement\\employeemangement\\dbcontext.employeemangement\\dbcontext.employeemangement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B1A849C6-602C-42EE-8A06-D60F04334E92}|DBContext.EmployeeMangement\\DBContext.EmployeeMangement.csproj|d:\\forbusiness\\employeemanagement\\employeemanagement\\employeemangement\\dbcontext.employeemangement\\dbcontext.employeemangement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B1A849C6-602C-42EE-8A06-D60F04334E92}|DBContext.EmployeeMangement\\DBContext.EmployeeMangement.csproj|solutionrelative:dbcontext.employeemangement\\dbcontext.employeemangement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -22,17 +22,17 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Service.EmployeeMangement",
-              "DocumentMoniker": "C:\\D\\TTTN\\EmployeeMangement\\EmployeeManagement\\EmployeeMangement\\Service.EmployeeMangement\\Service.EmployeeMangement.csproj",
+              "Title": "Service.EmployeeMangement.csproj",
+              "DocumentMoniker": "D:\\ForBusiness\\EmployeeManagement\\EmployeeManagement\\EmployeeMangement\\Service.EmployeeMangement\\Service.EmployeeMangement.csproj",
               "RelativeDocumentMoniker": "Service.EmployeeMangement\\Service.EmployeeMangement.csproj",
-              "ToolTip": "C:\\D\\TTTN\\EmployeeMangement\\EmployeeManagement\\EmployeeMangement\\Service.EmployeeMangement\\Service.EmployeeMangement.csproj",
+              "ToolTip": "D:\\ForBusiness\\EmployeeManagement\\EmployeeManagement\\EmployeeMangement\\Service.EmployeeMangement\\Service.EmployeeMangement.csproj",
               "RelativeToolTip": "Service.EmployeeMangement\\Service.EmployeeMangement.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-29T06:47:16.168Z",
               "EditorCaption": ""
@@ -40,10 +40,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DBContext.EmployeeMangement",
-              "DocumentMoniker": "C:\\D\\TTTN\\EmployeeMangement\\EmployeeManagement\\EmployeeMangement\\DBContext.EmployeeMangement\\DBContext.EmployeeMangement.csproj",
+              "Title": "DBContext.EmployeeMangement.csproj",
+              "DocumentMoniker": "D:\\ForBusiness\\EmployeeManagement\\EmployeeManagement\\EmployeeMangement\\DBContext.EmployeeMangement\\DBContext.EmployeeMangement.csproj",
               "RelativeDocumentMoniker": "DBContext.EmployeeMangement\\DBContext.EmployeeMangement.csproj",
-              "ToolTip": "C:\\D\\TTTN\\EmployeeMangement\\EmployeeManagement\\EmployeeMangement\\DBContext.EmployeeMangement\\DBContext.EmployeeMangement.csproj",
+              "ToolTip": "D:\\ForBusiness\\EmployeeManagement\\EmployeeManagement\\EmployeeMangement\\DBContext.EmployeeMangement\\DBContext.EmployeeMangement.csproj",
               "RelativeToolTip": "DBContext.EmployeeMangement\\DBContext.EmployeeMangement.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

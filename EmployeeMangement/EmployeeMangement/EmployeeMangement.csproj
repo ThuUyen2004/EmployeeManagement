@@ -20,4 +20,8 @@
     <ProjectReference Include="..\Service.EmployeeMangement\Service.EmployeeMangement.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>

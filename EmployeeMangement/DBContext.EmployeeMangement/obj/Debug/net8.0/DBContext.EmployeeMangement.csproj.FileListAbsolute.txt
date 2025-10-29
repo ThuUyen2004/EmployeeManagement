@@ -1,0 +1,15 @@
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\bin\Debug\net8.0\DBContext.EmployeeMangement.deps.json
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\bin\Debug\net8.0\DBContext.EmployeeMangement.runtimeconfig.json
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\bin\Debug\net8.0\DBContext.EmployeeMangement.dll
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\bin\Debug\net8.0\DBContext.EmployeeMangement.pdb
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\DBContext.EmployeeMangement.csproj.AssemblyReference.cache
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\DBContext.EmployeeMangement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\DBContext.EmployeeMangement.AssemblyInfoInputs.cache
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\DBContext.EmployeeMangement.AssemblyInfo.cs
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\DBContext.EmployeeMangement.csproj.CoreCompileInputs.cache
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\DBContext.EmployeeMangement.sourcelink.json
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\DBContext.EmployeeMangement.dll
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\refint\DBContext.EmployeeMangement.dll
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\DBContext.EmployeeMangement.pdb
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\DBContext.EmployeeMangement.genruntimeconfig.cache
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\DBContext.EmployeeMangement\obj\Debug\net8.0\ref\DBContext.EmployeeMangement.dll

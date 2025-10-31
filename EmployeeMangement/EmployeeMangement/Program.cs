@@ -1,9 +1,11 @@
 ﻿using DBContext.EmployeeMangement;
 using Microsoft.EntityFrameworkCore;
+using Service.EmployeeMangement.Executes;
 
 
 
-var builder = WebApplication.CreateBuilder(args);
+
+    var builder = WebApplication.CreateBuilder(args);
 
 //builder.WebHost.ConfigureKestrel(options =>
 
@@ -70,10 +72,20 @@ builder.Services.AddDbContext<EmployeeManagementContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // ------------------ Custom Services ------------------
-//builder.Services.AddScoped<ProductCommand>();
+    builder.Services.AddScoped<EmployeeMany>();
+    builder.Services.AddScoped<EmployeeOne>();
+    builder.Services.AddScoped<EmployeeCommand>();
 
-// ------------------ Build app ------------------
-var app = builder.Build();
+    builder.Services.AddScoped<DepartmentMany>();
+    builder.Services.AddScoped<DepartmentOne>();
+    builder.Services.AddScoped<DepartmentCommand>();
+
+    builder.Services.AddScoped<JobPositionMany>();
+    builder.Services.AddScoped<JobPositionOne>();
+    builder.Services.AddScoped<JobPositionCommand>();
+
+    // ------------------ Build app ------------------
+    var app = builder.Build();
 
 // ------------------ Middleware ------------------
 if (!app.Environment.IsDevelopment())

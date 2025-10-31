@@ -174,3 +174,4 @@ D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\EmployeeM
 D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\EmployeeMangement\obj\Debug\net8.0\EmployeeMangement.pdb
 D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\EmployeeMangement\obj\Debug\net8.0\EmployeeMangement.genruntimeconfig.cache
 D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\EmployeeMangement\obj\Debug\net8.0\ref\EmployeeMangement.dll
+D:\ForBusiness\EmployeeManagement\EmployeeManagement\EmployeeMangement\EmployeeMangement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
